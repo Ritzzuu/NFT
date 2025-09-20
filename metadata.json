@@ -1,0 +1,9 @@
+{
+  "name": "My NFT #1",
+  "description": "Deskripsi singkat",
+  "image": "ipfs://<CID-image>/image.png",
+  "attributes": [
+    { "trait_type": "Color", "value": "Blue" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}
